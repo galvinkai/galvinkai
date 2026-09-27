@@ -36,13 +36,8 @@ A cross-platform pet care application designed to bring pet profiles, routines, 
 
 **React Native · Expo · TypeScript**
 
-### 🌱 EcoTracker
-A full-stack application for tracking and analysing carbon footprint data from financial transactions.
-
-**React · Python · Flask**
-
-### 💳 Open Banking Finance App
-A personal finance application integrating open banking data with AI-powered financial assistance.
+### 💳 EcoTracker
+A full-stack open banking application that analyses financial transactions to help users understand their carbon footprint, combining financial data with AI-powered insights.
 
 **React · Flask · PostgreSQL · Open Banking APIs**
 
