@@ -6,7 +6,6 @@ My experience spans frontend and mobile development, backend systems, data engin
 
 ## 👨‍💻 What I'm working on
 
-- 🐾 Building **Ask Paws**, a cross-platform pet care application using React Native, Expo and TypeScript
 - 🧩 Developing my skills in **NestJS, PostgreSQL and scalable backend architecture**
 - 🚀 Building and refining full-stack projects across web, mobile and AI
 - 💼 Open to **Software Engineer, Full-Stack, Frontend and Mobile Engineering** opportunities
@@ -30,11 +29,6 @@ My experience spans frontend and mobile development, backend systems, data engin
 `TensorFlow` `BERT` `Apache Spark` `Apache Kafka` `Cassandra`
 
 ## 🚀 Selected Work
-
-### 🐾 Ask Paws
-A cross-platform pet care application designed to bring pet profiles, routines, health information and everyday care into one mobile-first experience.
-
-**React Native · Expo · TypeScript**
 
 ### 💳 EcoTracker
 A full-stack open banking application that analyses financial transactions to help users understand their carbon footprint, combining financial data with AI-powered insights.
